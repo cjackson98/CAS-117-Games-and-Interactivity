@@ -1,4 +1,4 @@
-# CAS-117
+# CAS-117 - Games and Interactivity
 
 Project 1 - Simple solar system viewer</br></br>
 Project 2 - 2D Shooter</br></br>
